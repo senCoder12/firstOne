@@ -1,5 +1,5 @@
  function getDiff(a , b){
-     return a-b;
+     return (a-b);
  }
 
  function getAbs(a,b){
